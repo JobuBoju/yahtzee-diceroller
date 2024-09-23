@@ -1,1 +1,5 @@
-# yahtzee-diceroller
+# Assignment: Web Dice Roller
+# Creator: Joshua Butny
+# Creator-Contact: joshuambutny@lewisu.edu
+# Content Originality: ChatGPT aided in the initial creation of a template for the website (title, 5 boxes, and a unstyled button). Later on in the creation process I was required to make the numbers within the dice read-only and I consulted ChatGPT and implemented the code it generated. It also helped me fix my script as when I implemented the read-only changes to the dice my script stopped working. 
+# Notes: This was boring and I can't wait till we have to make harder websites because it isn't fun when the basic website template I ask ChatGPT to generate for me to get started is essentially the whole thing. I mean I really only spent like 10 minutes adjusting styles and adding instructions to complete this.
